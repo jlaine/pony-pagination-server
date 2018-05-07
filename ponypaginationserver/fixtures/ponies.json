@@ -1,0 +1,170 @@
+[
+    {
+        "pk": 1,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Adorable Alfy"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Brave Barbara"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Cuddly Charlie"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Devious Deborah"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Extreme Ernest"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Furious Fanny"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Gracious Gwendolin"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Holy Holly"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Incredible Ivy"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Jolly Jumper"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Krazy Kangaroo"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Limping Lucius"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Magnificient Molly"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Nifty Norbert"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Original Origami"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Power Pony"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Quantum Quentin"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Rainbow Runner"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Super Sparkles"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": false,
+            "name": "Turbo Tammy"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "ponypaginationserver.pony",
+        "fields": {
+            "is_available": true,
+            "name": "Ubiquitous Ubu"
+        }
+    }
+]
