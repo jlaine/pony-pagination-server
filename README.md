@@ -7,7 +7,7 @@ collection of ponies.
 
 You will need to install Python 3 then run:
 
-    virtualenv -p python3 env
+    python3 -m venv env
     source env/bin/activate
     pip install -r requirements.txt
 
@@ -15,8 +15,9 @@ You will need to install Python 3 then run:
 
 Load fixtures and run the server:
 
-    ./manage loaddata ponies
-    ./manage runserver
+    ./manage.py migrate
+    ./manage.py loaddata ponies
+    ./manage.py runserver
 
 To check that everything is working as expect, point your browser to:
 
