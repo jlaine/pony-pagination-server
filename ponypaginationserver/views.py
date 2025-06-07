@@ -8,7 +8,7 @@ from .serializers import PonySerializer
 
 class PonyList(generics.ListAPIView):
     filter_backends = (DjangoFilterBackend, SearchFilter)
-    filterset_fields = ('is_available',)
+    filterset_fields = ("is_available",)
     queryset = Pony.objects.all()
-    search_fields = ('name',)
+    search_fields = ("name",)
     serializer_class = PonySerializer
