@@ -7,7 +7,7 @@ class PonySerializer(serializers.ModelSerializer):
     class Meta:
         model = Pony
         fields = (
-            'id',
-            'is_available',
-            'name',
+            "id",
+            "is_available",
+            "name",
         )
