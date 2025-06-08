@@ -12,4 +12,9 @@ jobs:
         python-version: 3.13
     - run: |
         pip install -r requirements.txt
-        python manage.py test
+        coverage run manage.py test
+        coverage xml
+    - name: Upload coverage report
+      uses: codecov/codecov-action@v4
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
