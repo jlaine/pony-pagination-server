@@ -1,3 +1,6 @@
+[![Tests](https://github.com/jlaine/pony-pagination-server/workflows/tests/badge.svg)](https://github.com/jlaine/pony-pagination-server/actions)
+[![Coverage](https://img.shields.io/codecov/c/github/jlaine/pony-pagination-server.svg)](https://codecov.io/github/jlaine/pony-pagination-server)
+
 # Pony server
 
 This code implements a backend server which serves a filtered, paginated
